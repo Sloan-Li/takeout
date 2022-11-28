@@ -1,4 +1,8 @@
 # takeout
+```
+vue2的第一个项目,做得比较粗糙.用的包管理器是pnpm,模拟点外卖移动端界面.
+技术栈: vue-cli + vue-router + vuex + axios + ES6
+```
 
 ## Project setup
 ```
